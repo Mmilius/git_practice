@@ -30,3 +30,5 @@ Push it you write: git push origin(remote repo) master
 git remote - v  
 ^this will will give you the name of the remote repo that lives on GitHub. 
 
+Git push origin master
+
